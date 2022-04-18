@@ -331,6 +331,15 @@ li {
   flex-direction: column;
 }
 
+.contact .contact-title {
+  text-align: right;
+  color: #172b4d;
+  font-size: 2em;
+  font-family: "Inter", sans-serif;
+  font-weight: bolder;
+  line-height: 1.5em;
+}
+
 .contact .contact-header {
   padding: 20px;
   height: 216px;
@@ -339,15 +348,6 @@ li {
 
 .contact .contact-form {
   margin: 20px 5px;
-}
-
-.contact .contact-header p {
-  text-align: center;
-  color: #172b4d;
-  font-size: 32px;
-  font-family: "Inter", sans-serif;
-  font-weight: bolder;
-  line-height: 42px;
 }
 
 .contact form {
@@ -400,26 +400,24 @@ li {
   padding: 15px 10px;
   border: none;
   font-weight: bold;
-  background: #ff6b00;
+  background: #4400ff;
   height: 48px;
   width: 40%;
   font-size: 17px;
   font-family: "Inter", sans-serif;
   text-align: center;
+  border-radius: 7%;
+
 }
 
 .contact-form .contact-button:hover {
-  color: #ff6b00;
+  color: #4400ff;
   background: #fff5e1;
-  border: 1px solid #f55800;
+  border: 1px solid #4400ff;
+  border-radius: 50%;
 }
 
 .contact-form .contact-button:active {
   color: #f4f1f0;
   background: #e05304;
-}
-
-.contact-form .contact-button:disabled {
-  color: #5b5957;
-  background: #f4f1f0;
 }
