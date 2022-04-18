@@ -17,17 +17,17 @@
 This projects is a simple portfolio design. You can use this portfolio to showcase your projects and get contact with the people.
 
 ## Live Demo
-[Live Demo]()
+[Live Demo](https://sinansevgi.github.io/reviewer-experiments/)
 
 ## Getting Started
 
 * Clone this repo
     ```
-    git clone 
+    git clone git@github.com:sinansevgi/reviewer-experiments.git
     ```
 * Navigate to private-events folder
     ```
-    cd book-library
+    cd review-experiments
     ```
 * To interact with the application, open index.html in your web browser.
 
@@ -36,7 +36,6 @@ This projects is a simple portfolio design. You can use this portfolio to showca
 👤 **Sinan Sevgi**
   - GitHub: [@sinansevgi](https://github.com/sinansevgi)
   - LinkedIn: [@sinansevgi](https://www.linkedin.com/in/sinansevgi/)
-  - Twitter: [@nativeofcybers1](https://twitter.com/nativeofcybers1)
   - Portfolio: [Website](https://sinansevgi.com)
 
 
@@ -44,7 +43,7 @@ This projects is a simple portfolio design. You can use this portfolio to showca
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/sinansevgi/reviewer-experiments/issues).
 
 
 ## Acknowledgements
