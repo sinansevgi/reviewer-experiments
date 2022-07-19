@@ -5,7 +5,7 @@ Each version of rails brings us exciting new features. But it also changes lots 
 ---------------------------------------------------------
 - While installing rails you can specify which version to install like this:
 
-```ruby
+```bash
 
 gem install rails -v '6.1.6' 
 
@@ -16,7 +16,7 @@ gem install rails -v '6.1.6'
 
 - You can check installed version of rails like this:
 
-```ruby
+```bash
 
 gem list rails --local
 
@@ -30,7 +30,7 @@ gem list rails --local
 
 - _When you create a new rails app, bundler automatically runs latest rails version that installed on your system. In order to specify which rails version that you want use, you should give it as a parameter while creating an app._
 
-```ruby
+```bash
 
 rails _6.1.6_ new my_app
 
